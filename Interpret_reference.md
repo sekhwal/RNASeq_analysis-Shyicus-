@@ -36,6 +36,4 @@ cat ref/shyicus_features.gff3 | grep exon | wc -l
 cat ref/shyicus_transcripts.fasta | head -5
 cat ref/shyicus_transcripts.fasta | grep ">" | head
 ```
-### align your transcripts against the reference
-```
-```
+
